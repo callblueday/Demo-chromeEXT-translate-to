@@ -1,3 +1,14 @@
+# TranslateTo
+一个基于 plasmo 框架浏览器扩展教程Demo，用于将网页上的文本翻译成中文。
+
+## 技术栈
+- 框架：plasmo
+- 语言：TypeScript
+- 样式：TailwindCSS
+- 工具：pnpm
+- 翻译api：Google Translate API
+
+
 ## 开发模式
 
 1、 将 `sample.env.local` 更名为 `.env.local` 文件，配置谷歌翻译API key
